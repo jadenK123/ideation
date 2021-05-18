@@ -1,0 +1,24 @@
+{
+  "name": "ideation",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadenK123/ideation.git"
+  },
+  "author": "jadenKwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadenK123/ideation/issues"
+  },
+  "homepage": "https://github.com/jadenK123/ideation#readme",
+  "description": ""
+}
