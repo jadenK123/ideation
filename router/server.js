@@ -5,8 +5,8 @@ module.exports = function(app)
 {
 
     //메인
-    app.use('/ideation/IDEA01000S.dev',function(req,res){
-        res.render('CM01000S.html');
+    app.use('/ideation/',function(req,res){
+        res.render('main.html');
     });
         
 
